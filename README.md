@@ -1,7 +1,7 @@
  <h1 align="center">Responsive Website</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49158754/95726728-33831b00-0c71-11eb-8c22-0c56afef7c8a.png" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/49158754/97037913-e735b600-1561-11eb-987d-2499d3636d8e.png" width="600px"/>
 </p>
 
 ---
